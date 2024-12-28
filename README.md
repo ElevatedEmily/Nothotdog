@@ -14,7 +14,7 @@ The website is made using Flask and react.
 ensure the kaggle dataset is in the project directory
 
     python CNN.py
-    python Covert2ONNX.pu
+    python Covert2ONNX.py
 
 # Run Backend and Frontend
 
